@@ -1,0 +1,5 @@
+name: Roulette
+version: 1.0
+main: me.Alessandro.Roulette.Main
+description: A roulette plugin by Alessandro26
+depend: [Vault]
